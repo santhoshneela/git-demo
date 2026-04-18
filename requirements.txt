@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-core
+langchain-community
+longchain-text-splitters
+langgraph
+langchain-google
+pydantic
+python-dotenv
+wikipedia
+langchain_google_genai
+pypdf
+redis
